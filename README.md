@@ -30,5 +30,6 @@ If you want to contact me, please leave me a message!
 
 
 
- 
+ [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ikstagram95/)](https://www.instagram.com/_won_hee_/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:totoheh@gmail.com)](mailto:parksimis@gmail.com) [![Notion Badge](https://img.shields.io/badge/-notion-000000?style=flat-square&logo=Notion&logoColor=white&link=[https://www.notion.so/Park-Seon-Ik-425e0feea8334faa8b82e1f20118bec7](https://efficient-zinc-13b.notion.site/Hello-I-M-WONHEE-7d4d218b5ce54c0da03f12181ee749df?pvs=4)https://efficient-zinc-13b.notion.site/Hello-I-M-WONHEE-7d4d218b5ce54c0da03f12181ee749df?pvs=4)]([https://www.notion.so/Park-Seon-Ik-425e0feea8334faa8b82e1f20118bec7](https://efficient-zinc-13b.notion.site/Hello-I-M-WONHEE-7d4d218b5ce54c0da03f12181ee749df?pvs=4)https://efficient-zinc-13b.notion.site/Hello-I-M-WONHEE-7d4d218b5ce54c0da03f12181ee749df?pvs=4)
+
 
