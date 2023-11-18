@@ -27,7 +27,8 @@
 If you want to contact me, please leave me a message!  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWonhee0221&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_won_hee_/)](https://www.instagram.com/_won_hee_/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:totoheh@gmail.com)](mailto:totoheh@gmail.com) 
+[![Notion Badge](https://img.shields.io/badge/-notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Hello-I-M-WONHEE-7d4d218b5ce54c0da03f12181ee749df)](https://www.notion.so/Hello-I-M-WONHEE-7d4d218b5ce54c0da03f12181ee749df)
 
 
-
- [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ikstagram95/)](https://www.instagram.com/_won_hee_/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:totoheh@gmail.com)](mailto:parksimis@gmail.com) [![Notion Badge](https://img.shields.io/badge/-notion-000000?style=flat-square&logo=Notion&logoColor=white&link=(https://www.notion.so/Hello-I-M-WONHEE-7d4d218b5ce54c0da03f12181ee749df)]
