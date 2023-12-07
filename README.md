@@ -1,6 +1,6 @@
 ### Hi there! 🧘‍♀️
 
-**I am Wonhee Han who is interested in `Data Science & Data-Analyst`from South Korea.**
+**I am Wonhee Han who is interested in `BackEnd & AI developer`from South Korea.**
 
 
 
