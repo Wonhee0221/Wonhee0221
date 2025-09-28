@@ -11,16 +11,17 @@
 <img src="https://img.shields.io/badge/정보처리기사-CEF279?style=for-the-badge&logo=coveralls&logoColor=black"/> <img src="https://img.shields.io/badge/SQLD-FAED7D?style=for-the-badge&logo=coveralls&logoColor=black"/>
 
 #### 🌱 Education
-- 디지털 하나로 금융서비스 개발 2기 우수 수료 2024-01 ~ 2024-07 (975h)
+- 하나금융 Digital Hana 路 금융서비스 개발 2기 우수 수료 2024-01-12 ~ 2024-07-12 (975h)
 - K-Software Empowerment BootCamp	2023-03-27 ~ 2023-11-24 (640h)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Activities
 - 경기대학교 경영정보전공 <sup> 2018-03 * 2024-02
 - 경기대학교 경영정보 MAIN 학생회 사무국장 <sup> 2022-03 * 2022-12
-- 하나금융 Digital Hana 路 교육 <sup>2024-01 * 2024-07
 - Redis를 활용한 교실 소통 플랫폼, Claksion Springboot 개발 🙋‍♂️ <sup>2024-04 * 2024-05
 - AI기반 음성인식 뱅킹 웹서비스 백엔드(Springboot, Pyhthon) 개발 🙋‍♂️ <sup>2024-05 * 2024-06
 - 생성형 AI를 활용한 MZ 뱅킹 서비스 앱 풀스택(ReactNative, Springboot, Python) 개발 🙋‍♂️ <sup>2024-06 * 2024-07
+
+
 
 If you want to contact me, please leave me a message!  
 
