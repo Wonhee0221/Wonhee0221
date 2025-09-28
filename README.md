@@ -10,6 +10,9 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/정보처리기사-CEF279?style=for-the-badge&logo=coveralls&logoColor=black"/> <img src="https://img.shields.io/badge/SQLD-FAED7D?style=for-the-badge&logo=coveralls&logoColor=black"/>
 
+#### 🌱 Education
+- 디지털 하나로 금융서비스 개발 2기 우수 수료 2024-01 ~ 2024-07 (975h)
+- K-Software Empowerment BootCamp	2023-03-27 ~ 2023-11-24 (640h)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Activities
 - 경기대학교 경영정보전공 <sup> 2018-03 * 2024-02
